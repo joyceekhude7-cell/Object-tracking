@@ -53,5 +53,5 @@ streamlit run app.py
 - `README.md` → Project information
 
 ## Author Name
-Yashashree Ahirekar
+Joycee Khude. 
 CodeAlpha Intern 
